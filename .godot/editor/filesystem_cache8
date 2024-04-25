@@ -1,0 +1,58 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714076562
+default_env.tres::Environment::7630007788007346272::1705356226::0::1::::<><>::
+design.md::TextFile::-1::1705356226::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1714075176::0::1::::<><>::
+icon.png::CompressedTexture2D::3292525349821816488::1705356226::1714076563::1::::<><>::
+::res://Assets/::1714076418
+::res://Assets/Images/::1714075061
+back.png::CompressedTexture2D::7851999536210484567::1705356226::1714076563::1::::<><>::
+finishline.png::CompressedTexture2D::4071192987955569812::1705356226::1714076563::1::::<><>::
+Floor - Dirt 1 64x64.png::CompressedTexture2D::4983506805687973523::1705356226::1714076563::1::::<><>::
+shuttle2.png::CompressedTexture2D::6272127786722575103::1705356226::1714076563::1::::<><>::
+Star-Background-1.png::CompressedTexture2D::7684276732484346970::1705356226::1714076563::1::::<><>::
+Wall - Brick 2 64x64.png::CompressedTexture2D::1403033854870743115::1705356226::1714076563::1::::<><>::
+Walls-only.png::CompressedTexture2D::5255163654682913368::1705356226::1714076563::1::::<><>::
+Walls-with-star-back.png::CompressedTexture2D::122284774530908939::1705356226::1714076563::1::::<><>::
+::res://Assets/Sound/::1714075061
+n-Dimensions (Main Theme - Retro Ver.mp3::AudioStreamMP3::6840298306878588845::1705356226::1714076563::1::::<><>::
+::res://src/::1705356226
+::res://src/AutoLoads/::1705356226
+level_loader.gd::GDScript::-1::1705356226::0::1::::<>Node<>::
+level_loader.tscn::PackedScene::1519013598705943219::1705356226::0::1::::<><>::res://src/AutoLoads/level_loader.gd
+racedata.gd::GDScript::-1::1705356226::0::1::::<>Node<>::
+RaceData.tscn::PackedScene::3561810666863056972::1705356226::0::1::::<><>::res://src/AutoLoads/racedata.gd
+::res://src/Components/::1705356226
+health.gd::GDScript::-1::1705356226::0::1::::<>Node<>::
+::res://src/Entities/::1705356226
+hitbox.gd::GDScript::-1::1705356226::0::1::::<>Area2D<>::
+player.gd::GDScript::-1::1705356226::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::2769444343137702346::1705356226::0::1::::<><>::uid://cvmja7xo5eyip::::res://Assets/Images/shuttle2.png<>res://src/Entities/player.gd
+::res://src/Levels/::1705356226
+level.gd::GDScript::-1::1705356226::0::1::::<>Node2D<>::
+level.tscn::PackedScene::1351665567349995251::1705356226::0::1::::<><>::uid://bfpslxlg3v5sg::::res://src/Entities/player.tscn<>res://src/UI/stopwatch_label.gd<>res://src/UI/stopwatch.gd<>res://src/Objects/lap_label.gd<>res://src/UI/pause_menu.gd<>uid://bg36u5m2ohqlk::::res://src/UI/QuitButton.tscn<>res://src/UI/resume_button.gd<>res://src/UI/menu_button.gd<>res://src/UI/race_over_menu.gd<>res://src/UI/restart_button.gd<>uid://c4pqyjcuya0np::::res://Assets/Sound/n-Dimensions (Main Theme - Retro Ver.mp3
+track.gd::GDScript::-1::1705356226::0::1::::<>TileMap<>::
+track_template.tscn::PackedScene::1291292393976512848::1705356226::0::1::::<><>::uid://cg4v1o56xwxwq::::res://Assets/Images/Walls-only.png<>uid://cdabvnd3jslw2::::res://Assets/Images/Floor - Dirt 1 64x64.png<>uid://t8v06tnb8ef0::::res://Assets/Images/Wall - Brick 2 64x64.png<>uid://byad7oqlrd7po::::res://Assets/Images/finishline.png<>uid://dhqk6d38im8vm::::res://Assets/Images/Star-Background-1.png<>uid://b0iaokhexga2::::res://Assets/Images/Walls-with-star-back.png<>res://src/Levels/track.gd<>uid://dia6q62caoisy::::res://src/Objects/lap_tracker.tscn<>uid://dj4tjxwk2gygl::::res://Assets/Images/back.png
+::res://src/Objects/::1705356226
+lap_label.gd::GDScript::-1::1705356226::0::1::::<>Label<>::
+lap_tracker.gd::GDScript::-1::1705356226::0::1::::<>Area2D<>::
+lap_tracker.tscn::PackedScene::7722685269686805644::1705356226::0::1::::<><>::res://src/Objects/lap_tracker.gd<>res://src/Objects/lap_tracker_tool.gd
+lap_tracker_tool.gd::GDScript::-1::1705356226::0::1::::<>Node<>::
+::res://src/Tracks/::1705356226
+track1.tscn::PackedScene::2453396898585300542::1705356226::0::1::::<><>::uid://cg4v1o56xwxwq::::res://Assets/Images/Walls-only.png<>uid://cdabvnd3jslw2::::res://Assets/Images/Floor - Dirt 1 64x64.png<>uid://t8v06tnb8ef0::::res://Assets/Images/Wall - Brick 2 64x64.png<>uid://byad7oqlrd7po::::res://Assets/Images/finishline.png<>uid://dhqk6d38im8vm::::res://Assets/Images/Star-Background-1.png<>uid://b0iaokhexga2::::res://Assets/Images/Walls-with-star-back.png<>res://src/Levels/track.gd<>uid://dia6q62caoisy::::res://src/Objects/lap_tracker.tscn<>uid://dj4tjxwk2gygl::::res://Assets/Images/back.png
+track2.tscn::PackedScene::3001491819745452095::1705356226::0::1::::<><>::uid://cg4v1o56xwxwq::::res://Assets/Images/Walls-only.png<>uid://cdabvnd3jslw2::::res://Assets/Images/Floor - Dirt 1 64x64.png<>uid://t8v06tnb8ef0::::res://Assets/Images/Wall - Brick 2 64x64.png<>uid://byad7oqlrd7po::::res://Assets/Images/finishline.png<>uid://dhqk6d38im8vm::::res://Assets/Images/Star-Background-1.png<>uid://b0iaokhexga2::::res://Assets/Images/Walls-with-star-back.png<>res://src/Levels/track.gd<>uid://dia6q62caoisy::::res://src/Objects/lap_tracker.tscn<>uid://dj4tjxwk2gygl::::res://Assets/Images/back.png
+track3.tscn::PackedScene::8562379762425995462::1705356226::0::1::::<><>::uid://cg4v1o56xwxwq::::res://Assets/Images/Walls-only.png<>uid://cdabvnd3jslw2::::res://Assets/Images/Floor - Dirt 1 64x64.png<>uid://t8v06tnb8ef0::::res://Assets/Images/Wall - Brick 2 64x64.png<>uid://byad7oqlrd7po::::res://Assets/Images/finishline.png<>uid://dhqk6d38im8vm::::res://Assets/Images/Star-Background-1.png<>uid://b0iaokhexga2::::res://Assets/Images/Walls-with-star-back.png<>res://src/Levels/track.gd<>uid://dia6q62caoisy::::res://src/Objects/lap_tracker.tscn<>uid://dj4tjxwk2gygl::::res://Assets/Images/back.png
+::res://src/UI/::1705356226
+MainMenu.tscn::PackedScene::8329659079356711822::1705356226::0::1::::<><>::uid://bg36u5m2ohqlk::::res://src/UI/QuitButton.tscn<>res://src/UI/track_button_list.gd
+menu_button.gd::GDScript::-1::1705356226::0::1::::<>Button<>::
+pause_menu.gd::GDScript::-1::1705356226::0::1::::<>Control<>::
+QuitButton.tscn::PackedScene::2867275860772743864::1705356226::0::1::::<><>::res://src/UI/quit_button.gd
+quit_button.gd::GDScript::-1::1705356226::0::1::::<>Button<>::
+race_over_menu.gd::GDScript::-1::1705356226::0::1::::<>Control<>::
+restart_button.gd::GDScript::-1::1705356226::0::1::::<>Button<>::
+resume_button.gd::GDScript::-1::1705356226::0::1::::<>Button<>::
+start_button.gd::GDScript::-1::1705356226::0::1::::<>Button<>::
+stopwatch.gd::GDScript::-1::1705356226::0::1::::<>Node<>::
+stopwatch_label.gd::GDScript::-1::1705356226::0::1::::<>Label<>::
+track_button.tscn::PackedScene::8769440190293049311::1705356226::0::1::::<><>::res://src/UI/start_button.gd
+track_button_list.gd::GDScript::-1::1705356226::0::1::::<>VBoxContainer<>::

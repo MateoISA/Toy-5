@@ -1,0 +1,13 @@
+res://src/AutoLoads/level_loader.tscn::8ceeb4ba2d2028b6852e152e24d24251::1705356226::res://.godot/exported/133200997/export-6b82b582f9d10fc2507e8ac5ad7f6216-level_loader.scn
+res://src/AutoLoads/RaceData.tscn::772335670934fb92c1d77faf2d7cd1a5::1705356226::res://.godot/exported/133200997/export-24e91efe565bfd1f85d34266b3831aab-RaceData.scn
+res://src/Entities/player.tscn::9b8fcce8ffa99c4997b47789d6420ccb::1705356226::res://.godot/exported/133200997/export-77d2d064db4bf4639e5f427a7611c2dd-player.scn
+res://src/Levels/level.tscn::99aa1cc2aa221888dc2c3e6f5c6c32b1::1705356226::res://.godot/exported/133200997/export-079ffc84eb5d0729fa0982c5e21785ca-level.scn
+res://src/Levels/track_template.tscn::f8444d3a4f66baaa46f2f8a4b138f761::1705356226::res://.godot/exported/133200997/export-4c79e715114589904ed5e7aadd7e0086-track_template.scn
+res://src/Objects/lap_tracker.tscn::aabe7b692dade3ac14b9037a1fadf5d5::1705356226::res://.godot/exported/133200997/export-c8bfc7b18c3c256232e362e7d9d8c314-lap_tracker.scn
+res://src/Tracks/track1.tscn::93127c0402e5e84a47ffe850db430aba::1705356226::res://.godot/exported/133200997/export-42a2f8e334d356edfba0623e0f4426ec-track1.scn
+res://src/Tracks/track2.tscn::d3b05ac2322f46824e67dad5aceffaf1::1705356226::res://.godot/exported/133200997/export-d5296eaeee557346481c02f3e3a81c3a-track2.scn
+res://src/Tracks/track3.tscn::787394a72690654cee68b072d3c09536::1705356226::res://.godot/exported/133200997/export-d1c40be361d04c0da32f52c536929f16-track3.scn
+res://src/UI/MainMenu.tscn::4844ae6426f6e6414ced42d7b68aba61::1705356226::res://.godot/exported/133200997/export-3879df0f772037bb91cb9897808a5da2-MainMenu.scn
+res://src/UI/QuitButton.tscn::b240064f660af3540f163c347a2d15f6::1705356226::res://.godot/exported/133200997/export-bf37edf45fd07041e6c5a67abed18873-QuitButton.scn
+res://src/UI/track_button.tscn::94198ab23c8e84496d88b04bead3da47::1705356226::res://.godot/exported/133200997/export-4c774bc89121b89d9ae2585c158de211-track_button.scn
+res://default_env.tres::faafef49591c470db9cc1e033e7998d6::1705356226::res://.godot/exported/133200997/export-7cf3fd67ad9f55210191d77b582b8209-default_env.res
